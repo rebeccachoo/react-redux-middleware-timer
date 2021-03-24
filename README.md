@@ -1,6 +1,6 @@
 # React App - Timer
 
-This is react app that show you a time right now and record it when you click a button.
+This is a simple example of react redux. This is react app that show you a time right now and record it when you click a button. It uses react redux to store a state. And the state will have a list of times.
 
 | Feature | Description |
 | -----: | :----------- |
